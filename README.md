@@ -24,8 +24,8 @@ Wat Pah Pong and Wat Pah Nanachat), together with what the Sangha community list
 - a lookup: type a name and see that person's card, where they stayed over the years and how long at each place;
 - Thai titles with the year each was received, and the Western preceptors.
 
-It is a small, light exercise to show how the community has changed. The list is Cunda's own, unofficial and incomplete,
-and this page does not try to be complete or exactly accurate.
+It is a small, light exercise to show how the community has changed. The list is the Sangha's official list, kept by Cunda. Its current bhikkhu and sāmaṇera sections are highly accurate, the other
+sections are incomplete, and this page does not try to be complete or exactly accurate.
 
 ## Updating this page (for the owner and their AI)
 
